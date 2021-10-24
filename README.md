@@ -44,8 +44,14 @@
 <a href="https://github.com/GianlucaVend/GianlucaVend">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GianlucaVend&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Gianluca's GitHub Stats" />
 </a>
+<br />
+<br />
+<a href="https://github.com/GianlucaVend/ecomver1demo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GianlucaVend&repo=ecomver1demo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
 
-
+<a href="https://github.com/GianlucaVend/photosharedemo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GianlucaVend&repo=photosharedemo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 
