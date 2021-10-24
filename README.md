@@ -33,6 +33,23 @@
 <br />
 <br />
 
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/GianlucaVend/GianlucaVend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GianlucaVend&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/GianlucaVend/GianlucaVend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GianlucaVend&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Gianluca's GitHub Stats" />
+</a>
+
+
+</a>    
+
+
+
+
+
+
 [website]: https://gianlucavenditti.com/
 [demo]: https://venditti-ecom-demo.herokuapp.com/
 [email]: mailto:dev@gianlucavenditti.com
