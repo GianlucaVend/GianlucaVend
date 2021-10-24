@@ -38,7 +38,8 @@
 <br />
 <br />
 <details>
-  <summary>: &#x1f4c8;: GitHub Stats</summary>
+  
+ <summary> &#x1f4c8;GitHub Stats</summary>
 
  <!-- ## &#x1f4c8; GitHub Stats -->
 
