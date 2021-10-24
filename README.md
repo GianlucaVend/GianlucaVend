@@ -1,3 +1,5 @@
+[![Header](https://raw.githubusercontent.com/GianlucaVend/ecomver1demo/master/images/lucavend.jpg "Header")](https://gianlucavenditti.com/)
+
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gianluca</h1>
 
 ### Software developer who is very passionate to learn!
