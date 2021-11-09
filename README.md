@@ -12,9 +12,16 @@
 
 ### Connect with me ⚡:
 
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Twitter][twitter-shield]][twitter-url]
+[![Instagram][instagram-shield]][insta-url]
+
+<!--
 [<img align="left" alt="gianlucavenditti.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="vendittiIT | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="vendittiIT | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+-->
+
 
 <br />
 
@@ -75,3 +82,9 @@
 [email]: mailto:dev@gianlucavenditti.com
 [instagram]: https://www.instagram.com/gianlucavend/
 [linkedin]: https://www.linkedin.com/in/gianlucavenditti-/
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/gianlucavenditti-/
+[twitter-shield]: https://img.shields.io/badge/-twitter-black.svg?style=for-the-badge&logo=Twitter&colorB=555
+[twitter-url]: https://twitter.com/GianlucaVend
+[instagram-shield]: https://img.shields.io/badge/-instagram-black.svg?style=for-the-badge&logo=instagram&colorB=555
+[insta-url]: https://www.instagram.com/gianlucavend/
