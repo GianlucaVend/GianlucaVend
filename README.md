@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/GianlucaVend/ecomver1demo/master/images/lucavend.jpg "Header")](https://gianlucavenditti.com/)
 
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px">
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 </h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?color=%2344A3F7&lines=Gianluca+Venditti;Fullstack+developer;Always+learning+new+things;"></a>
