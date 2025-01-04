@@ -4,10 +4,11 @@
 </h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?color=%2344A3F7&lines=Gianluca+Venditti;Fullstack+developer;Always+learning+new+things;"></a>
+<!--
 - 🔭 view my: [personal website][website]
 - 📫 Contact me: [dev@gianlucavenditti.com][email]
 - 🌱 Currently developing: [https://venditti-ecom-demo.herokuapp.com/][demo]
-
+-->
 ---
 
 ### Connect with me ⚡:
